@@ -6,7 +6,7 @@ $nome = "";
 // lé a variável
 switch($numero) {   
 
-    // compara a variável break; 
+ // compara a variável break; 
 case 4:
     echo "O número é igual a 4 <br>";
     break; 
@@ -23,7 +23,7 @@ default:
 // lê a variável
  switch($nome) {
 
-    // compara a variável
+ // compara a variável
     case "Rosana":
     echo "O nome é Rosana";
     break;
